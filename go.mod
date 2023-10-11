@@ -1,4 +1,4 @@
-module github.com/amenzhinsky/iothub
+module github.com/dgoodman91/iothub
 
 go 1.18
 
